@@ -15,4 +15,4 @@ The t-SNE visualizations are in notebook
 t-SNE.ipynb
 ```
 
-Other implementations are in the directory "old_demos". MOVE them to the master directory to run.
+Other implementations occuring in the report are in the directory "old_demos". MOVE them to the master directory to run.
