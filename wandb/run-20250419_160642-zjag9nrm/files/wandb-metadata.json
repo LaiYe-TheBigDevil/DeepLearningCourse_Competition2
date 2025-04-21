@@ -1,0 +1,38 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.9.19",
+  "startedAt":  "2025-04-19T20:06:42.543449Z",
+  "program":  "c:\\Documents\\phd\\DL\\project2_github\\train.ipynb",
+  "codePath":  "train.ipynb",
+  "email":  "ly2414@nyu.edu",
+  "root":  "c:\\Documents\\phd\\DL\\project2_github",
+  "host":  "DESKTOP-2KOP2JM",
+  "executable":  "c:\\ProgramData\\anaconda3\\envs\\dl\\python.exe",
+  "codePathLocal":  "train.ipynb",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 4070 SUPER",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1999444635648",
+      "used":  "901626023936"
+    }
+  },
+  "memory":  {
+    "total":  "34196324352"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  20
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4070 SUPER",
+      "memoryTotal":  "12878610432",
+      "cudaCores":  7168,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}
